@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\MvcTaskManager\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F40D34-64D6-4A9D-BCC8-90120E11AAA2}|..\\BL\\BL.csproj|c:\\users\\user\\mvctaskmanager\\bl\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\controllers\\mytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:controllers\\mytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F40D34-64D6-4A9D-BCC8-90120E11AAA2}|..\\BL\\BL.csproj|c:\\users\\user\\mvctaskmanager\\bl\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F40D34-64D6-4A9D-BCC8-90120E11AAA2}|..\\BL\\BL.csproj|c:\\users\\user\\mvctaskmanager\\bl\\managers\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F40D34-64D6-4A9D-BCC8-90120E11AAA2}|..\\BL\\BL.csproj|c:\\users\\user\\mvctaskmanager\\bl\\interfaces\\itaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\models\\gettaskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:models\\gettaskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F40D34-64D6-4A9D-BCC8-90120E11AAA2}|..\\BL\\BL.csproj|c:\\users\\user\\mvctaskmanager\\bl\\db\\mvctaskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|c:\\users\\user\\mvctaskmanager\\backend\\data\\mvctaskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC7D2B-5F93-4B3C-8B88-1FB472E4F1BB}|MvcTaskManager.csproj|solutionrelative:data\\mvctaskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\BL\\Managers\\TaskManager.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Managers\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\BL\\Managers\\TaskManager.cs",
+              "RelativeToolTip": "..\\BL\\Managers\\TaskManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:27:51.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\BL\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\BL\\Models\\MyTask.cs",
+              "RelativeToolTip": "..\\BL\\Models\\MyTask.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwCcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:20:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\BL\\Interfaces\\ITaskManager.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Interfaces\\ITaskManager.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\BL\\Interfaces\\ITaskManager.cs",
+              "RelativeToolTip": "..\\BL\\Interfaces\\ITaskManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:17:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Controllers\\MyTasksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyTasksController.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Controllers\\MyTasksController.cs",
+              "RelativeToolTip": "Controllers\\MyTasksController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:06:27.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:52:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\BL\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "..\\BL\\Enums\\TaskPriority.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\BL\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "..\\BL\\Enums\\TaskPriority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:24:23.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T09:59:53.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T09:59:59.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Models\\MyTask.cs",
+              "RelativeToolTip": "Models\\MyTask.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:20:51.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T09:59:58.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MvcTaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\BL\\DB\\MvcTaskManagerContext.cs",
+              "RelativeDocumentMoniker": "..\\BL\\DB\\MvcTaskManagerContext.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\BL\\DB\\MvcTaskManagerContext.cs",
+              "RelativeToolTip": "..\\BL\\DB\\MvcTaskManagerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:34:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTaskResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Models\\GetTaskResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GetTaskResponse.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Models\\GetTaskResponse.cs",
+              "RelativeToolTip": "Models\\GetTaskResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:57:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MvcTaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MvcTaskManager\\backend\\Data\\MvcTaskManagerContext.cs",
+              "RelativeDocumentMoniker": "Data\\MvcTaskManagerContext.cs",
+              "ToolTip": "C:\\Users\\User\\MvcTaskManager\\backend\\Data\\MvcTaskManagerContext.cs",
+              "RelativeToolTip": "Data\\MvcTaskManagerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:13.191Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
